@@ -11,7 +11,7 @@ One of the most common types of information that computers process is text. To t
   - Crash Course Video on [Boolean Logic & Logic Gates](https://www.youtube.com/embed/gI-qXk7XojA)
 
 - ### Activity 
-- [Binary Game](https://studio.code.org/projects/applab/iukLbcDnzqgoxuu810unLw)
+  - [Binary Game](https://studio.code.org/projects/applab/iukLbcDnzqgoxuu810unLw)
 
 - ### Notes
   - [Binary]({{"/assets/pdfs/unit0/binary.pdf" | relative_url }})
