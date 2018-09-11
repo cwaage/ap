@@ -11,7 +11,11 @@ One of the most common types of information that computers process is text. To t
   - Crash Course Video on [Boolean Logic & Logic Gates](https://www.youtube.com/embed/gI-qXk7XojA)
 
 - ### Activity 
-  - [Binary Game](https://studio.code.org/projects/applab/iukLbcDnzqgoxuu810unLw)
+  - Binary Game on [Code.org](https://studio.code.org/projects/applab/iukLbcDnzqgoxuu810unLw)
+  
+- ### Assignment
+  - Worksheet [Binary Numbers, ASCII Table, BW Pictures](https://docs.google.com/document/d/140t17eVBoprys9Ar9KP1viDH46L1EQsLkbIoUpc8m0g/edit?usp=sharing)
+
 
 - ### Notes
   - [Binary]({{"/assets/pdfs/unit0/binary.pdf" | relative_url }})
