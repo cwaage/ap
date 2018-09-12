@@ -6,13 +6,13 @@ In this section, we'll talk about transistors, Boolean logic, and how they come 
 
 - ### Homework
   - Watch the following three videos before Friday's Class
-    - TED-Ed on [How Transistors Work](https://www.youtube.com/embed/WhNyURBiJcU)
-    - Khan Academy on [Circuits & Logic](https://www.youtube.com/embed/Sc3lh3D4rCw)
-    - Crash Course on [Boolean Logic & Logic Gates](https://www.youtube.com/embed/gI-qXk7XojA)
+    - TED-Ed on [How Transistors Work(5 min)](https://www.youtube.com/embed/WhNyURBiJcU)
+    - Khan Academy on [Circuits & Logic(5 min)](https://www.youtube.com/embed/Sc3lh3D4rCw)
+    - Crash Course on [Boolean Logic & Logic Gates(10 min)](https://www.youtube.com/embed/gI-qXk7XojA)
     
   - Quiz (An easy one)
-    - When you are done watching the videos take the following quiz.
-    - [Circuits & Logic Quiz](https://goo.gl/forms/CxYrtVFkjfd8kk4u2)
+    - When you are done watching the above videos take the following quiz.
+      - [Circuits & Logic Quiz](https://goo.gl/forms/CxYrtVFkjfd8kk4u2)
 
 - ### Videos
   - TED-Ed on [How Transistors Work](https://www.youtube.com/embed/WhNyURBiJcU)
