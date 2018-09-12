@@ -4,6 +4,12 @@ We know that computers can only understand 1s and 0s. But how do they process an
 
 In this section, we'll talk about transistors, Boolean logic, and how they come together to form the brains of a computer: the CPU.
 
+- ### Homework
+  - Watch the following three videos before Friday's Class
+    - TED-Ed on [How Transistors Work](https://www.youtube.com/embed/WhNyURBiJcU)
+    - Khan Academy on [Circuits & Logic](https://www.youtube.com/embed/Sc3lh3D4rCw)
+    - Crash Course on [Boolean Logic & Logic Gates](https://www.youtube.com/embed/gI-qXk7XojA)
+
 - ### Videos
   - TED-Ed on [How Transistors Work](https://www.youtube.com/embed/WhNyURBiJcU)
   - Khan Academy on [Circuits & Logic](https://www.youtube.com/embed/Sc3lh3D4rCw)
