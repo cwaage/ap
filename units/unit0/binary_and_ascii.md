@@ -13,7 +13,8 @@ One of the most common types of information that computers process is text. To t
 - ### Activity 
   - Binary Game on [Code.org](https://studio.code.org/projects/applab/iukLbcDnzqgoxuu810unLw)
   
-- ### Assignment
+- ### Assignments
+  - Worksheet [Hexidecimal Numbers] (https://docs.google.com/document/d/1_e_5Dz9w9NDF_MQY_3a_vAzt1gSpM0lbFBg2t4I6zgs/edit?usp=sharing)
   - Worksheet [Binary Numbers, ASCII Table, BW Pictures](https://docs.google.com/document/d/140t17eVBoprys9Ar9KP1viDH46L1EQsLkbIoUpc8m0g/edit?usp=sharing)
 
 
