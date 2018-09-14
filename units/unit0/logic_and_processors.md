@@ -15,7 +15,7 @@ In this section, we'll talk about transistors, Boolean logic, and how they come 
       - [Circuits & Logic Quiz](https://goo.gl/forms/CxYrtVFkjfd8kk4u2)
 
 - ### Activity 
-  - 
+  - Worksheet [Logic Gates and other Hardware Abstractions](https://docs.google.com/document/d/1kM2K-SyExtOnT47PSNO3NwXPGjf5PzdE1sVUsIPDEXc/edit?usp=sharing)
 
 - ### Videos
   - TED-Ed on [How Transistors Work](https://www.youtube.com/embed/WhNyURBiJcU)
