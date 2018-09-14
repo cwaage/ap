@@ -14,6 +14,9 @@ In this section, we'll talk about transistors, Boolean logic, and how they come 
     - When you are done watching the above videos take the following quiz.
       - [Circuits & Logic Quiz](https://goo.gl/forms/CxYrtVFkjfd8kk4u2)
 
+- ### Activity 
+  - 
+
 - ### Videos
   - TED-Ed on [How Transistors Work](https://www.youtube.com/embed/WhNyURBiJcU)
   - Khan Academy on [Circuits & Logic](https://www.youtube.com/embed/Sc3lh3D4rCw)
