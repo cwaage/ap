@@ -1,7 +1,7 @@
 # Unit 0
 
 - Slides
-  -[Unit 0 Slides](https://docs.google.com/presentation/d/1CXxy-dAbRFFAa9bv6fEn4DC9_2uhdIr_xrP2RRBQH1A/edit?usp=sharing)
+    * [Unit 0 Slides](https://docs.google.com/presentation/d/1CXxy-dAbRFFAa9bv6fEn4DC9_2uhdIr_xrP2RRBQH1A/edit?usp=sharing)
 
 * [Computers and Computing]({{"/units/unit0/computers_and_computing" | relative_url }})
 * [How Computers Work]({{"/units/unit0/how_computers_work" | relative_url }})
