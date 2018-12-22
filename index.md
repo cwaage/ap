@@ -9,3 +9,5 @@ This is CS50 AP, Harvard University's introduction to the intellectual enterpris
 <!-- <iframe src="https://www.youtube.com/embed/tZxLMIk_SaY?playlist=GAB6Gm7pTTA"></iframe> -->
 
 ![Bubble Sort Dance](https://cwaage.github.io/ap/assets/images/bubble_sort_dance.jpg)
+
+<img src="https://cwaage.github.io/ap/assets/images/bubble_sort_dance.jpg" | alt="Bubble Sort Dance" style="width:250px;">
